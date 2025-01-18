@@ -1,4 +1,4 @@
-./.deps
-./.states
-./artifacts
-./Contracts/artifacts
+.deps
+.states
+artifacts
+Contracts/artifactss
